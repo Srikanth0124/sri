@@ -1,2 +1,2 @@
 # sri
-This is for practise purpose
+This is for practice purpose
